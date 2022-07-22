@@ -1,0 +1,7 @@
+
+git branch 'branchName'				What git command creates a branch?
+FF: When easy to tell when commits occured.	What is the difference between a fast-forward and recursive merge?
+R:  When FF can't be used, commits not chrono.
+git checkout	    				What git command changes to another branch?
+git branch -d 'name'   				What git command deletes a branch?
+Changes made to same file/file already exists.	How do merge conflicts happen?
